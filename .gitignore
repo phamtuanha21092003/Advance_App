@@ -13,11 +13,17 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+#docker
 data
+docker-compose.yml
+
 # Built application files
 *.apk
 *.aar
 *.ap_
+
+.env
 
 # Files for the ART/Dalvik VM
 *.dex
