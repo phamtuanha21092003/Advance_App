@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1054567087131",
+    "project_id": "advanceapp-3912c",
+    "storage_bucket": "advanceapp-3912c.appspot.com",
+    "firebase_url": "https://advanceapp-3912c-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054567087131:android:820b410da39b4911a8ccbe",
+        "android_client_info": {
+          "package_name": "com.example.advance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1ZKHRCC4fL1xI8iWiPxfPPRM11DUCFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
